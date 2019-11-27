@@ -1,2 +1,5 @@
 # voice-call-totalvoice
-Monitorando servidores e utilizando a API da TOTALVOICE para ligar para o desenvolvedor avisando sobre os status dos servidores.
+
+Utilizando a API da TotalVoice para fazer ligação. 
+
+Nesta aplicação, a função de chamada de voz é disparada quando um dos servidores monitorados para de funcionar.
