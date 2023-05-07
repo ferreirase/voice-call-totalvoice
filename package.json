@@ -11,6 +11,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "totalvoice-node": "^1.8.0"
+    "totalvoice-node": "^1.12.0"
   }
 }
